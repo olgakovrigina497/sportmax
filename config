@@ -12,10 +12,6 @@
     {
       "name": "keyname1",
       "link": "https://yandex.com?sub1={name1}&sub2={apsf_id}&sub3={app_id}"
-    },
-    {
-      "name": "keyname4",
-      "link": "https://yandex.com?s1={name1}&s2={name2}&s3={name3}&s4={apsf_id}&s5={app_id}"
     }
   ],
   "country_codes": [
