@@ -12,6 +12,10 @@
     {
       "name": "keyname1",
       "link": "https://yandex.com?sub1={name1}&sub2={apsf_id}&sub3={app_id}"
+    },
+    {
+      "name": "testmax",
+      "link": "https://xstart.space/click.php?key=1wztojs350gxlpzfm7hh&subid1={name1}&subid2={name2}&subid3={name3}&subid4={apsf_id}&subid5={app_id}"
     }
   ],
   "country_codes": [
